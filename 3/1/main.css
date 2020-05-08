@@ -1,0 +1,25 @@
+.parent {
+  /* padding: 20px; */
+  /* position: absolute; */
+  display: inline-block;
+  /* border: 1px solid black; */
+}
+.block {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin: 20px;
+  padding: 20px;
+}
+h1 {
+  display: inline-block;
+}
+h2 {
+  display: inline-block;
+}
+h3 {
+  display: inline-block;
+}
+
+.block-1 {
+}

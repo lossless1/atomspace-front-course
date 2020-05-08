@@ -1,0 +1,39 @@
+.main-container {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.projects-container {
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.image {
+  width: 253px;
+  heigth: 168px;
+}
+
+.images-container {
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  color: white;
+}
+
+.images-container > div {
+  margin: 20px;
+  position: relative;
+}
+
+.alias-text-block {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 40px;
+  background-color: black;
+}

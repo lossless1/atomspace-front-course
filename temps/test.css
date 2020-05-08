@@ -1,0 +1,12 @@
+.container {
+  display: block;
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border: 5px solid pink;
+}
+
+/* div#id.container{
+	color: black
+} */
