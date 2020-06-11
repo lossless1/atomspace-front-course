@@ -1,0 +1,11 @@
+
+label{
+	display: block;
+	margin-bottom: 10px;
+}
+.Form{
+	margin: 20px;
+}
+.error{
+	color: red
+}
